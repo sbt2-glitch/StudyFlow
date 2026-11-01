@@ -378,81 +378,71 @@ footer{
     .menubtn{display:block;}
 
 }
-.stats-subtitle {
-    color: #777;
-    margin-top: -10px;
-    margin-bottom: 30px;
+.stats-subtitle{
+    color:#777;
+    margin-top:-10px;
+    margin-bottom:30px;
 }
-
-.stats-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 22px;
-    margin-top: 30px;
+.stats-container{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:23px;
+    margin-top:30px;
 }
-
-.stats-card {
-    background: white;
-    padding: 25px;
+.stats-card{
+    background:white;
+    padding:25px;
     border-radius: 15px;
-    display: flex;
+    display:flex;
     align-items: center;
-    gap: 20px;
+    gap:20px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.06);
-    border: 1px solid #eeeeee;
-    transition: 0.3s ease;
+    border:1px solid #eee;
+    transition:0.3s ease;
 }
-
-.stats-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 22px rgba(0,0,0,0.10);
+.stats-card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 8px 22px rgba(0,0,0,0.1);
 }
-
-.stats-icon {
-    width: 55px;
+.stats-icon{
+    width:55px;
     height: 55px;
-    border-radius: 13px;
-    display: flex;
+    border-radius:13px;
+    display:flex;
     justify-content: center;
     align-items: center;
-    font-size: 25px;
-    flex-shrink: 0;
+    font-size:25px;
+    flex-shrink:0;
 }
-
-.stats-icon.blue {
-    background: #e5efff;
-    color: #3478e5;
+.stats-icon.blue{
+    background:#e5efff;
+    color:#3478e5;
 }
-
-.stats-icon.green {
-    background: #e2f7eb;
-    color: #239b56;
+.stats-icon.green{
+    background:#e2f7eb;
+    color:#239b56;
 }
-
-.stats-icon.purple {
-    background: #f0e8ff;
-    color: #8956d8;
+.stats-icon.purple{
+    background:#f0e8ff;
+    color:#8956d8;
 }
-
-.stats-icon.orange {
-    background: #fff0df;
-    color: #e58b30;
+.stats-icon.orange{
+    background:#fff0df;
+    color:#e58b30;
 }
-
 .stats-card p {
-    color: #777;
+    color: #777777;
     font-size: 14px;
     margin: 0 0 8px;
 }
 
-.stats-card h2 {
-    color: #202b45;
-    font-size: 28px;
-    margin: 0;
+.stats-card h2{
+    color:#202b45;
+    font-size:28px;
+    margin:0;
 }
-
-@media (max-width: 600px) {
-    .stats-container {
-        grid-template-columns: 1fr;
+@media(max-width:600px){
+    .stats-container{
+        grid-template-columns:1fr;
     }
 }
