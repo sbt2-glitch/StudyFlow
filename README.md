@@ -1,3 +1,10 @@
+**StudyFLow**
+StudyFlow is a website where you can plan, organize and track your activities neatly. It is built to make students' school load less. The website is built only in front-end, so the data the user entered won't be stored.
+*Its purpose*
+The first one is organization. organized materials feel light to study and encourage us to study well and studyflow is created for that. The second thing is for managing time. the timer helps to track the time students studied. And all of them will be tracked when the website's back-end is built.
+
+Its feature:
+it has planner where students can put their planned activities. it also has timer, too mange time. 
 # StudyFlow – Your Personal Student Planner
 
 **StudyFlow** is a simple, interactive, and beginner-friendly student planner website designed to help students organize their academic lives, manage their time, and stay focused on their learning goals.
