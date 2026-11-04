@@ -1,5 +1,6 @@
-![StudyFlow db](as.PNG)
 **StudyFLow**
+
+![StudyFlow db](as.PNG)
 
 StudyFlow is a website where you can plan, organize and track your activities neatly. It is built to make students' school load less. The website is built only in front-end, so the data the user entered won't be stored.
 
@@ -14,11 +15,19 @@ it has planner where students can put their planned activities. it also has time
 ![StudyFlow db](as1.PNG) ![StudyFlow stats](as2.PNG)
 
 it's got planner. students can write their daily to-do-list and save the subjects they study to know how much they studied on a specific subject. ![StudyFlow stats](as4.PNG)  ![StudyFlow stats](as5.PNG)
+
+how it is built:
+
+The website is built in 12 hours of coding and many hours of studying. It used 3 languages which are important to front-end. From the three Java script was hard, but to make interactive and help students well, I studied js and learned the basics. In that way the project was done in 1 week. but it's notcomplete.
 *Languages Used:*
 
-This website is built with HTML, CSS to style it and  Java script to make it interactive.
+This website is built with HTML,
 
+CSS to style it and 
 
+Java script to make it interactive.
+
+All what the user need is to visit the site, navigate every features and use them well.
 *For the Future:*
 
 The website has only front-end features. It needs back-end to save data. So this project will be updated soon with storage.
