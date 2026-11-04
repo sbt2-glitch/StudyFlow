@@ -10,7 +10,7 @@ The first one is organization. organized materials feel light to study and encou
 *Its feature:*
 
 it has planner where students can put their planned activities. it also has timer, to mange time. Their activities will be saved in dashboard so they can track down what they have done. but this feature isn't available for now because it doesn't have storage. Not only the dashboard, it also has stats where they can visualize what they have done.
-
+![StudyFlow db](as1.PNG)
 
 *Languages Used:*
 
