@@ -1,3 +1,4 @@
+![StudyFlow](as.PNG)
 **StudyFLow**
 
 StudyFlow is a website where you can plan, organize and track your activities neatly. It is built to make students' school load less. The website is built only in front-end, so the data the user entered won't be stored.
