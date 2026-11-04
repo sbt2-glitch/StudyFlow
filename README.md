@@ -1,4 +1,4 @@
-![StudyFlow](as.PNG)
+![StudyFlow db](as.PNG)
 **StudyFLow**
 
 StudyFlow is a website where you can plan, organize and track your activities neatly. It is built to make students' school load less. The website is built only in front-end, so the data the user entered won't be stored.
@@ -9,9 +9,11 @@ The first one is organization. organized materials feel light to study and encou
 
 *Its feature:*
 
-it has planner where students can put their planned activities. it also has timer, to mange time. Their activities will be saved in dashboard so they can track down what they have done. but this feature isn't available for now because it doesn't have storage. Not only the dashboard, it also has stats where they can visualize what they have done.
-![StudyFlow db](as1.PNG)
+it has planner where students can put their planned activities. it also has timer, to mange time.![StudyFlow db](as3.PNG)
+ Their activities will be saved in dashboard so they can track down what they have done. but this feature isn't available for now because it doesn't have storage. Not only the dashboard, it also has stats where they can visualize what they have done.
+![StudyFlow db](as1.PNG) ![StudyFlow stats](as2.PNG)
 
+it's got planner. students can write their daily to-do-list and save the subjects they study to know how much they studied on a specific subject. ![StudyFlow stats](as4.PNG)  ![StudyFlow stats](as5.PNG)
 *Languages Used:*
 
 This website is built with HTML, CSS to style it and  Java script to make it interactive.
