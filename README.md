@@ -20,3 +20,7 @@ This website is built with HTML, CSS to style it and  Java script to make it int
 
 The website has only front-end features. It needs back-end to save data. So this project will be updated soon with storage.
 If it is possible, the website will have more cool and advanced features that can be more useful to students.
+
+Want to try it:
+
+here is the demo link:   sbt2-glitch.github.io/StudyFlow/
